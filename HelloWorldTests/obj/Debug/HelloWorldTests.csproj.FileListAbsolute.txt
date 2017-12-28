@@ -12,3 +12,13 @@ C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CoreCompileInputs.cache
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb

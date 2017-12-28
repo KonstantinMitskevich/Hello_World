@@ -10,3 +10,10 @@ C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\temp\CI\materials\3-jenkins-introduction-m3-simple-exercise-files\demos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
